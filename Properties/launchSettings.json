@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Deagency (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Deagency (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
